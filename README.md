@@ -4,7 +4,7 @@
 
 请前往右侧的 **[Releases](../../releases)** 页面下载最新版本的安装包或资源文件。
 
-![下载指引](how_to_download.png)
+![下载指引](howtodownload.png)
 
 > **提示**：在 Releases 页面中，找到 `Assets` 区域，点击文件名即可下载。
 
